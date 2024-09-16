@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="3105" it="0" lt="2838" ct="2279" ts="1725430254656" s="true" lb="-70" rc="200" rm="200" tn="" dt="text" de="UTF-8" by="46498" sc="1" ec="0" ng="0" na="0" hn="MAVBNG1121219">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 200
+Date: Wed, 04 Sep 2024 06:10:57 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips mod_fcgid/2.3.9 PHP/7.2.19 mod_jk/1.2.42
+Strict-Transport-Security: max-age=31536000; preload
+Strict-Transport-Security: max-age=0
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Content-Length: 46087
+Connection: close
+Content-Type: text/html;charset=UTF-8
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Accept-Language: en-US,en;q=0.5
+DNT: 1
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8
+Sec-GPC: 1
+Host: www.konakart.com
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+Sec-Fetch-Dest: document
+</requestHeader>
+  <responseData class="java.lang.String">&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01//EN&quot;&#xd;
+&quot;http://www.w3.org/TR/html4/strict.dtd&quot;&gt;&#xd;
+&#xd;
+&#xd;
+&#xd;
+ &#xd;
+ 	&#xd;
+    &#xd;
+    &#xd;
+    &#xd;
+    &#xd;
+    &#xd;
+    &#xd;
+		&lt;html&gt;&#xd;
+			&lt;head&gt;&#xd;
+				&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&gt;&#xd;
+				&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0, user-scalable=1&quot; /&gt;&#xd;
+				&lt;title&gt;KonaKart&lt;/title&gt;&#xd;
+				&lt;meta name=&quot;keywords&quot; content=&quot;KonaKart Java Shopping Cart eCommerce&quot; /&gt;&#xd;
+				&lt;meta name=&quot;description&quot; content=&quot;Powered by KonaKart Java Shopping Cart &quot; /&gt;&#xd;
+				&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=UTF-8&quot; /&gt;&#xd;
+				&#xd;
+				&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;https://code.jquery.com/ui/1.12.1/themes/smoothness/jquery-ui.css&quot; /&gt;&#xd;
+				&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;/konakart/styles/jquery.selectboxit.css&quot; /&gt;&#xd;
+				&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;/konakart/styles/font-awesome/css/font-awesome.css&quot; /&gt;&#xd;
+				&lt;link type=&apos;text/css&apos; rel=&apos;stylesheet&apos; href=&apos;https://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,400,600,700&apos;  &gt;		&#xd;
+				&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;/konakart/styles/jcarousel.css&quot; /&gt;				&#xd;
+				&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;/konakart/styles/kk-style.css&quot; /&gt;&#xd;
+&#xd;
+				&lt;script src=&quot;https://code.jquery.com/jquery-3.3.1.min.js&quot; integrity=&quot;sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;				&#xd;
+				&lt;script src=&quot;https://code.jquery.com/ui/1.12.1/jquery-ui.min.js&quot; integrity=&quot;sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;&#xd;
+				&lt;script type=&quot;text/javascript&quot; src=&quot;/konakart/script/jquery.validate.min.js&quot;&gt;&lt;/script&gt;&#xd;
+				&lt;script type=&quot;text/javascript&quot; src=&quot;/konakart/script/jquery.selectboxit.min.js&quot;&gt;&lt;/script&gt;&#xd;
+				&lt;script type=&quot;text/javascript&quot; src=&quot;/konakart/script/jquery.ui.datepicker-en.js&quot;&gt;&lt;/script&gt;			 &#xd;
+				&lt;script type=&quot;text/javascript&quot; src=&quot;/konakart/script/jquery.ui.datepicker-de.js&quot;&gt;&lt;/script&gt;			 &#xd;
+				&lt;script type=&quot;text/javascript&quot; src=&quot;/konakart/script/jquery.ui.datepicker-pt.js&quot;&gt;&lt;/script&gt;			 &#xd;
+				&lt;script type=&quot;text/javascript&quot; src=&quot;/konakart/script/jquery.ui.datepicker-es.js&quot;&gt;&lt;/script&gt;			 &#xd;
+				&lt;script type=&quot;text/javascript&quot; src=&quot;/konakart/script/ddpowerzoomer.js&quot;&gt;&#xd;
+				/***********************************************&#xd;
+				* Image Power Zoomer- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)&#xd;
+				* This notice MUST stay intact for legal use&#xd;
+				* Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more&#xd;
+				***********************************************/&#xd;
+				&lt;/script&gt;			 &#xd;
+				&lt;script type=&quot;text/javascript&quot; src=&quot;/konakart/script/jquery.jcarousel.min.js&quot;&gt;&lt;/script&gt;&#xd;
+				&lt;script type=&quot;text/javascript&quot; src=&quot;/konakart/script/jquery.touchSwipe.min.js&quot;&gt;&lt;/script&gt;&#xd;
+				&lt;script type=&quot;text/javascript&quot; src=&quot;/konakart/script/jquery.cookie.js&quot;&gt;&lt;/script&gt;&#xd;
+				&lt;script type=&quot;text/javascript&quot; src=&quot;/konakart/script/jquery-backward-timer.min.js&quot;&gt;&lt;/script&gt;&#xd;
+				&lt;script type=&quot;text/javascript&quot; src=&quot;/konakart/script/kk.js&quot;&gt;&lt;/script&gt;	&#xd;
+				&lt;script type=&quot;text/javascript&quot; src=&quot;/konakart/script/kk.proddetails.js&quot;&gt;&lt;/script&gt;	&#xd;
+				&lt;script type=&quot;text/javascript&quot; src=&quot;/konakart/script/kk.validation.js&quot;&gt;&lt;/script&gt;	&#xd;
+				&#xd;
+					&lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;/konakart/styles/smartmenus.css&quot; /&gt;&#xd;
+					&lt;script type=&quot;text/javascript&quot; src=&quot;/konakart/script/smartmenus.js&quot;&gt;&lt;/script&gt;			&#xd;
+				&#xd;
+				&#xd;
+				&lt;script&gt;&#xd;
+				// Picture element HTML5 shiv&#xd;
+				document.createElement( &quot;picture&quot; );&#xd;
+				&lt;/script&gt;&#xd;
+				&lt;script type=&quot;text/javascript&quot; src=&quot;/konakart/script/picturefill-min.js&quot;&gt;&lt;/script&gt;							&#xd;
+				&#xd;
+				&lt;base href=&quot;https://www.konakart.com:443/konakart/&quot;/&gt;&#xd;
+				&lt;!-- The version below for obtaining the base is sometimes better on IIS.             --&gt;&#xd;
+				&lt;!-- If you rely on the above for getting the base you get http://localhost so unless --&gt;&#xd;
+				&lt;!-- IIS is configured to Rewrite the outbound URLs it fails.                         --&gt;&#xd;
+				&lt;!-- base href=&quot;http://localhost:8090/konakart/&quot;/ --&gt;&#xd;
+				&lt;!--- KonaKart v9.6.0.0.20228 --&gt;&#xd;
+			&lt;/head&gt;&#xd;
+			&#xd;
+				&lt;body id=&quot;catalog.main.page&quot;&gt;&#xd;
+			&#xd;
+&#xd;
+			&#xd;
+			&#xd;
+&#xd;
+			&lt;input type=&quot;hidden&quot; value=&quot;null&quot; id=&quot;kk_xsrf_token&quot;/&gt;&#xd;
+	&#xd;
+	&#xd;
+	&lt;script language=&quot;JavaScript&quot; type=&quot;text/javascript&quot;&gt;&#xd;
+		if (top.location != location) {&#xd;
+					top.location.href = document.location.href ;&#xd;
+			}&#xd;
+				&#xd;
+			// Set jquery validation messages&#xd;
+			jQuery.validator.messages = {&#xd;
+					state: &apos;Required field.&apos;,&#xd;
+					country: &apos;Required field.&apos;,&#xd;
+					required: &apos;Required field.&apos;,&#xd;
+					creditcard: &apos;Please enter a valid credit card number.&apos;,&#xd;
+					digits: &apos;Please enter only digits.&apos;,&#xd;
+					maxlength: jQuery.validator.format(&apos;Please enter no more than {0} characters.&apos;),&#xd;
+					minlength: jQuery.validator.format(&apos;Please enter at least {0} characters.&apos;),&#xd;
+					expirydate: &apos;Please specify a valid expiry date in the format MMYY.&apos;,&#xd;
+					email:	&apos;Please enter a valid email address.&apos;,&#xd;
+					url:	&apos;Please enter a valid URL.&apos;,&#xd;
+					number:	&apos;Please enter a valid number.&apos;,&#xd;
+ 					equalTo: &apos;The passwords do not match.&apos;,&#xd;
+ 					phone_regex: &apos;You can only enter numbers and the following characters +  - . (  )&apos;&#xd;
+		};		 &#xd;
+	&lt;/script&gt;			&#xd;
+	&#xd;
+				&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+		&#xd;
+&#xd;
+&lt;script type=&quot;text/javascript&quot;&gt;	&#xd;
+$(function() {&#xd;
+	$(&apos;#lang-select&apos;).selectBoxIt({&#xd;
+		downArrowIcon: &quot;selectboxit-down-arrow&quot;&#xd;
+    });	 &#xd;
+&#xd;
+	&#xd;
+		&#xd;
+	$(&apos;#currency-select&apos;).selectBoxIt({&#xd;
+		downArrowIcon: &quot;selectboxit-down-arrow&quot;&#xd;
+    });	&#xd;
+	&#xd;
+	&#xd;
+    $(&apos;#open-search&apos;).click(function() {&#xd;
+        $(&apos;#slide-out-search&apos;).slideToggle(&apos;fast&apos;);&#xd;
+    });&#xd;
+    $(&apos;#close-search&apos;).click(function() {&#xd;
+        $(&apos;#slide-out-search&apos;).slideToggle(&apos;fast&apos;);&#xd;
+    });&#xd;
+    &#xd;
+	&#xd;
+&#xd;
+});&#xd;
+&lt;/script&gt;&#xd;
+&#xd;
+&lt;div id=&quot;top-bar-container&quot;&gt;&#xd;
+	&lt;div id=&quot;slide-out-search&quot;&gt;&#xd;
+		 &#xd;
+		 &lt;div id=&quot;search&quot;&gt;&#xd;
+				&#xd;
+				&lt;form action=&quot;QuickSearch.action&quot; id=&quot;quickSearchFormMobile&quot; method=&quot;post&quot;&gt;&#xd;
+					&lt;input type=&quot;hidden&quot; value=&quot;null&quot; name=&quot;xsrf_token&quot;/&gt;&#xd;
+					&lt;input type=&quot;hidden&quot; value=&quot;true&quot; name=&quot;searchInDesc&quot;/&gt;&#xd;
+					&lt;input type=&quot;text&quot; id=&quot;search-input-mobile&quot;  name=&quot;searchText&quot; class=&quot;rounded-corners-left&quot;&gt;&#xd;
+					&lt;a id=&quot;search-button-mobile&quot; class=&quot;rounded-corners-right&quot; onclick=&quot;javascript:document.getElementById(&apos;quickSearchFormMobile&apos;).submit();&quot;&gt;Search&lt;/a&gt;&#xd;
+				&lt;/form&gt;	&#xd;
+            &#xd;
+&#xd;
+			&lt;a id=&quot;adv-search-link&quot; href=&quot;AdvancedSearch.action&quot;&gt;Advanced Search&lt;/a&gt;&#xd;
+		&lt;/div&gt;&#xd;
+		&lt;span id=&quot;close-search&quot; class=&quot;fa fa-times&quot; title=&apos;Close&apos;&gt;&lt;/span&gt;&#xd;
+	&lt;/div&gt;&#xd;
+  	&lt;div id=&quot;top-bar&quot;&gt;&#xd;
+  		&lt;div id=&quot;search-container&quot;&gt;&#xd;
+	  		&lt;div id=&quot;top-bar-search&quot; class=&quot;top-bar-menu-item&quot;&gt;&#xd;
+			  	&lt;span id=&quot;open-search&quot; class=&quot;fa fa-search top-bar-menu-icon&quot; title=&quot;Search&quot;&gt;&lt;/span&gt; &#xd;
+			&lt;/div&gt;&#xd;
+		&lt;/div&gt;&#xd;
+		&lt;div id=&quot;selections-container&quot;&gt;&#xd;
+			&lt;div id=&quot;selections&quot;&gt;&#xd;
+		  		&lt;div id=&quot;language-selector&quot; class=&quot;top-bar-menu-item&quot;&gt;&#xd;
+		  			&lt;form action=&quot;SetLocale.action&quot; method=&quot;post&quot;&gt;  &#xd;
+		  				&lt;input type=&quot;hidden&quot; value=&quot;null&quot; name=&quot;xsrf_token&quot;/&gt;&#xd;
+						&lt;select id=&quot;lang-select&quot; name=&quot;locale&quot;  onchange=&quot;submit()&quot;&gt;&#xd;
+							&lt;option  value=&quot;en_GB&quot; data-icon=&quot;flag flag-en-GB&quot; selected=&quot;selected&quot;&gt;English&lt;/option&gt;&#xd;
+							&lt;option  value=&quot;de_DE&quot; data-icon=&quot;flag flag-de-DE&quot;  &gt;Deutsch&lt;/option&gt;&#xd;
+							&lt;option  value=&quot;es_ES&quot; data-icon=&quot;flag flag-es-ES&quot;  &gt;Español&lt;/option&gt;&#xd;
+							&lt;option  value=&quot;pt_BR&quot; data-icon=&quot;flag flag-pt-BR&quot;  &gt;Português&lt;/option&gt;&#xd;
+						&lt;/select&gt;&#xd;
+					&lt;/form&gt;									&#xd;
+		  		&lt;/div&gt;&#xd;
+		  		&lt;div id=&quot;currency-selector&quot;  class=&quot;top-bar-menu-item&quot;&gt;&#xd;
+					&lt;form action=&quot;SelectCurrency.action&quot; method=&quot;post&quot;&gt;  &#xd;
+						&lt;input type=&quot;hidden&quot; value=&quot;null&quot; name=&quot;xsrf_token&quot;/&gt;&#xd;
+						&lt;select id=&quot;currency-select&quot; name=&quot;currencyCode&quot;  onchange=&quot;submit()&quot;&gt;&#xd;
+							&#xd;
+								&#xd;
+								&#xd;
+									&lt;option  value=&quot;USD&quot;&gt;US $&lt;/option&gt;&#xd;
+								&#xd;
+							&#xd;
+								&#xd;
+								&#xd;
+									&lt;option  value=&quot;EUR&quot;&gt;EUR €&lt;/option&gt;&#xd;
+								&#xd;
+							&#xd;
+								&#xd;
+								&#xd;
+									&lt;option  value=&quot;CHF&quot;&gt;CHF&lt;/option&gt;&#xd;
+								&#xd;
+							&#xd;
+						&lt;/select&gt;&#xd;
+					&lt;/form&gt;										  			&#xd;
+		  		&lt;/div&gt;&#xd;
+		  	&lt;/div&gt;&#xd;
+		  &lt;/div&gt;&#xd;
+		 &lt;div id=&quot;options-container&quot;&gt;&#xd;
+	  		&lt;div id=&quot;options&quot;&gt;		&#xd;
+&#xd;
+	  			  		&#xd;
+	  		&lt;div id=&quot;my-account&quot; class=&quot;top-bar-menu-item&quot;&gt;&#xd;
+	  			&lt;span class=&quot;fa fa-user top-bar-menu-icon&quot;&gt;&lt;a href=&quot;LogIn.action&quot; title=&apos;My Account&apos;&gt;&lt;/a&gt;&lt;/span&gt;  			&#xd;
+		  		&lt;span class=&quot;top-bar-menu-title&quot;&gt;&lt;a href=&quot;LogIn.action&quot;&gt;My Account&lt;/a&gt;&lt;/span&gt;&#xd;
+	  			&#xd;
+	  		&lt;/div&gt;&#xd;
+	  			&#xd;
+&#xd;
+		  		&lt;div id=&quot;gift-registry&quot; class=&quot;top-bar-menu-item&quot;&gt;		  &#xd;
+		  			&lt;span class=&quot;fa fa-gift top-bar-menu-icon&quot;&gt;&lt;a href=&quot;GiftRegistrySearch.action&quot; class=&quot;header2-top&quot; title=&apos;Gift Registries&apos;&gt;&lt;/a&gt;&lt;/span&gt; 		&#xd;
+		  			&lt;span class=&quot;top-bar-menu-title&quot;&gt;&lt;a href=&quot;GiftRegistrySearch.action&quot; class=&quot;header2-top&quot;&gt;Gift Registries&lt;/a&gt;&lt;/span&gt; &#xd;
+		  		&lt;/div&gt;	&#xd;
+				&#xd;
+			&#xd;
+		  		&lt;div id=&quot;wish-list&quot; class=&quot;top-bar-menu-item&quot;&gt;	&#xd;
+		  			&lt;span class=&quot;fa fa-heart-o top-bar-menu-icon&quot; title=&apos;Wish List&apos;&gt;&lt;span id=&quot;wishlist-items&quot;&gt;&lt;/span&gt;&lt;/span&gt;  			&#xd;
+		  			&lt;span class=&quot;top-bar-menu-title&quot;&gt;Wish List&lt;span id=&quot;wishlist-items&quot;&gt; &lt;/span&gt;&lt;/span&gt;&#xd;
+			  		 			&#xd;
+			   		&lt;div id=&quot;wish-list-container&quot;&gt;&#xd;
+			   		&lt;div id=&quot;wish-list-mouseover-shadow&quot; class=&quot;slide-out-shadow&quot;&gt;&lt;/div&gt;&#xd;
+				  	&lt;div id=&quot;wish-list-contents&quot; class=&quot;slide-out-contents shadow&quot;&gt;			  	&#xd;
+			  			&#xd;
+			  				Your Wish List is empty&#xd;
+			  							  				  	&#xd;
+				  	&lt;/div&gt;	&#xd;
+				&lt;/div&gt; &#xd;
+				&lt;/div&gt;&#xd;
+			&#xd;
+			&lt;div id=&quot;shopping-cart&quot; class=&quot;top-bar-menu-item&quot;&gt;&#xd;
+				&lt;span class=&quot;fa fa-shopping-cart top-bar-menu-icon&quot; title=&apos;Shopping Cart&apos;&gt;&lt;span id=&quot;basket-items&quot;&gt;&lt;/span&gt;&lt;/span&gt;  			&#xd;
+		  		&lt;span class=&quot;shopping-cart-title top-bar-menu-title&quot;&gt;Shopping Cart&lt;span id=&quot;basket-items&quot;&gt; &lt;/span&gt;&lt;/span&gt;&#xd;
+		  		&#xd;
+		  		&#xd;
+		  	&#xd;
+		    &lt;div id=&quot;shopping-cart-container&quot;&gt;&#xd;
+			  	&lt;div id=&quot;shopping-cart-mouseover-shadow&quot; class=&quot;slide-out-shadow&quot;&gt;&lt;/div&gt;&#xd;
+			  	&lt;div id=&quot;shopping-cart-contents&quot; class=&quot;slide-out-contents shadow&quot;&gt;&#xd;
+						&#xd;
+						Your Shopping Cart is empty&#xd;
+									  		&#xd;
+			  	&lt;/div&gt;	&#xd;
+			&lt;/div&gt;&#xd;
+			&lt;/div&gt;&#xd;
+		&lt;/div&gt;&#xd;
+		&lt;/div&gt;&#xd;
+  	&lt;/div&gt;&#xd;
+&lt;/div&gt;  &#xd;
+				&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+	&#xd;
+&#xd;
+	&#xd;
+	&lt;div id=&quot;cookie-container&quot;&gt;&#xd;
+		&lt;div id=&quot;cookie-warning&quot;&gt;&#xd;
+				&lt;span style=&quot;display:table-cell; vertical-align:top;&quot;&gt;Cookies help us deliver the best experience on our website. By using our website, you agree to our use of cookies.&lt;/span&gt;&#xd;
+				&lt;span style=&quot;display:table-cell; vertical-align:middle;&quot;&gt;&lt;div id=&quot;cookie-warn-button&quot; class=&quot;button small-rounded-corners&quot;&gt;Continue&lt;/div&gt;&lt;/span&gt;&#xd;
+		&lt;/div&gt;&#xd;
+	&lt;/div&gt;&#xd;
+&#xd;
+&#xd;
+&lt;div id=&quot;header-container&quot;&gt;&#xd;
+	&lt;div id=&quot;header&quot;&gt;&#xd;
+		&lt;div id=&quot;logo&quot;&gt;&#xd;
+			&#xd;
+			&#xd;
+				&#xd;
+				&#xd;
+					&#xd;
+				 &#xd;
+			 &#xd;
+&#xd;
+			 &#xd;
+			&lt;a href=&quot;Welcome.action&quot;&gt;&lt;img id=&quot;logo-1&quot;  &#xd;
+			    src=&quot;/konakart/images/content/logo.png&quot;&#xd;
+			    alt=&quot;KonaKart Logo&quot;/&gt;&lt;/a&gt;&#xd;
+		&lt;/div&gt;&#xd;
+		&lt;div id=&quot;search&quot;&gt;&#xd;
+				&#xd;
+				&lt;form action=&quot;QuickSearch.action&quot; id=&quot;quickSearchForm&quot; method=&quot;post&quot;&gt;&#xd;
+					&lt;input type=&quot;hidden&quot; value=&quot;null&quot; name=&quot;xsrf_token&quot;/&gt;&#xd;
+					&lt;input type=&quot;hidden&quot; value=&quot;true&quot; name=&quot;searchInDesc&quot;/&gt;&#xd;
+					&lt;input type=&quot;text&quot; id=&quot;search-input&quot; name=&quot;searchText&quot; class=&quot;rounded-corners-left&quot;&gt;&#xd;
+					&lt;a id=&quot;search-button&quot; class=&quot;rounded-corners-right&quot; onclick=&quot;javascript:document.getElementById(&apos;quickSearchForm&apos;).submit();&quot;&gt;Search&lt;/a&gt;&#xd;
+				&lt;/form&gt;	&#xd;
+            &#xd;
+		&lt;/div&gt;&#xd;
+		&lt;a id=&quot;adv-search-link&quot; href=&quot;AdvancedSearch.action&quot;&gt;Advanced Search&lt;/a&gt;&#xd;
+ 	&lt;/div&gt;&#xd;
+&lt;/div&gt;&#xd;
+	    		&lt;div id=&quot;page-container&quot;&gt;&#xd;
+	    			&lt;div id=&quot;page&quot; class=&quot;home&quot;&gt;&#xd;
+						&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+	&lt;script&gt;&#xd;
+		$(function() {&#xd;
+			if ($(&apos;#side-menu&apos;).length &amp;&amp; $(&apos;#side-menu-mobile&apos;).is(&quot;:visible&quot;)){&#xd;
+				$(&apos;#smart-menus&apos;).hide();&#xd;
+			}else {&#xd;
+				$(&apos;#smart-menus&apos;).smartmenus();&#xd;
+			}  &#xd;
+		});&#xd;
+		&#xd;
+		$(window).resize(function() {&#xd;
+			if ($(&apos;#side-menu&apos;).length &amp;&amp; $(&apos;#side-menu-mobile&apos;).is(&quot;:visible&quot;)){&#xd;
+				$(&apos;#smart-menus&apos;).hide();&#xd;
+			}else {&#xd;
+				$(&apos;#smart-menus&apos;).show();&#xd;
+			}  &#xd;
+		});&#xd;
+	&lt;/script&gt;&#xd;
+	&#xd;
+	&lt;ul id=&quot;smart-menus&quot; class=&quot;sm sm-clean&quot;&gt;&#xd;
+	  &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Products&lt;/a&gt;&#xd;
+		&lt;ul&gt;&#xd;
+		&#xd;
+			&#xd;
+			&lt;li&gt;&#xd;
+				&lt;a href=&apos;SelectCat.action?catId=1&apos;&gt;Computer Peripherals&lt;/a&gt;&#xd;
+				&#xd;
+					&lt;ul&gt;&#xd;
+					&#xd;
+						&#xd;
+						&lt;li&gt;&lt;a href=&apos;SelectCat.action?catId=4&apos;&gt;Graphics Cards&lt;/a&gt;&lt;/li&gt;&#xd;
+					&#xd;
+						&#xd;
+						&lt;li&gt;&lt;a href=&apos;SelectCat.action?catId=5&apos;&gt;Printers&lt;/a&gt;&lt;/li&gt;&#xd;
+					&#xd;
+						&#xd;
+						&lt;li&gt;&lt;a href=&apos;SelectCat.action?catId=6&apos;&gt;Monitors&lt;/a&gt;&lt;/li&gt;&#xd;
+					&#xd;
+						&#xd;
+						&lt;li&gt;&lt;a href=&apos;SelectCat.action?catId=7&apos;&gt;Speakers&lt;/a&gt;&lt;/li&gt;&#xd;
+					&#xd;
+						&#xd;
+						&lt;li&gt;&lt;a href=&apos;SelectCat.action?catId=8&apos;&gt;Keyboards&lt;/a&gt;&lt;/li&gt;&#xd;
+					&#xd;
+						&#xd;
+						&lt;li&gt;&lt;a href=&apos;SelectCat.action?catId=9&apos;&gt;Mice&lt;/a&gt;&lt;/li&gt;&#xd;
+					&#xd;
+						&#xd;
+						&lt;li&gt;&lt;a href=&apos;SelectCat.action?catId=16&apos;&gt;Memory&lt;/a&gt;&lt;/li&gt;&#xd;
+					&#xd;
+						&#xd;
+						&lt;li&gt;&lt;a href=&apos;SelectCat.action?catId=17&apos;&gt;CDROM Drives&lt;/a&gt;&lt;/li&gt;&#xd;
+					&#xd;
+					&lt;/ul&gt;&#xd;
+				&#xd;
+	&#xd;
+			&#xd;
+			&lt;/li&gt;&#xd;
+		&#xd;
+			&#xd;
+			&lt;li&gt;&#xd;
+				&lt;a href=&apos;SelectCat.action?catId=2&apos;&gt;Games&lt;/a&gt;&#xd;
+				&#xd;
+					&lt;ul&gt;&#xd;
+					&#xd;
+						&#xd;
+						&lt;li&gt;&lt;a href=&apos;SelectCat.action?catId=18&apos;&gt;Simulation&lt;/a&gt;&lt;/li&gt;&#xd;
+					&#xd;
+						&#xd;
+						&lt;li&gt;&lt;a href=&apos;SelectCat.action?catId=19&apos;&gt;Action&lt;/a&gt;&lt;/li&gt;&#xd;
+					&#xd;
+						&#xd;
+						&lt;li&gt;&lt;a href=&apos;SelectCat.action?catId=20&apos;&gt;Strategy&lt;/a&gt;&lt;/li&gt;&#xd;
+					&#xd;
+					&lt;/ul&gt;&#xd;
+				&#xd;
+	&#xd;
+			&#xd;
+			&lt;/li&gt;&#xd;
+		&#xd;
+			&#xd;
+			&lt;li&gt;&#xd;
+				&lt;a href=&apos;SelectCat.action?catId=3&apos;&gt;DVD Movies&lt;/a&gt;&#xd;
+				&#xd;
+					&lt;ul&gt;&#xd;
+					&#xd;
+						&#xd;
+						&lt;li&gt;&lt;a href=&apos;SelectCat.action?catId=10&apos;&gt;Action&lt;/a&gt;&lt;/li&gt;&#xd;
+					&#xd;
+						&#xd;
+						&lt;li&gt;&lt;a href=&apos;SelectCat.action?catId=11&apos;&gt;Science Fiction&lt;/a&gt;&lt;/li&gt;&#xd;
+					&#xd;
+						&#xd;
+						&lt;li&gt;&lt;a href=&apos;SelectCat.action?catId=12&apos;&gt;Comedy&lt;/a&gt;&lt;/li&gt;&#xd;
+					&#xd;
+						&#xd;
+						&lt;li&gt;&lt;a href=&apos;SelectCat.action?catId=13&apos;&gt;Cartoons&lt;/a&gt;&lt;/li&gt;&#xd;
+					&#xd;
+						&#xd;
+						&lt;li&gt;&lt;a href=&apos;SelectCat.action?catId=14&apos;&gt;Thriller&lt;/a&gt;&lt;/li&gt;&#xd;
+					&#xd;
+						&#xd;
+						&lt;li&gt;&lt;a href=&apos;SelectCat.action?catId=15&apos;&gt;Drama&lt;/a&gt;&lt;/li&gt;&#xd;
+					&#xd;
+					&lt;/ul&gt;&#xd;
+				&#xd;
+	&#xd;
+			&#xd;
+			&lt;/li&gt;&#xd;
+		&#xd;
+			&#xd;
+			&lt;li&gt;&#xd;
+				&lt;a href=&apos;SelectCat.action?catId=22&apos;&gt;Software&lt;/a&gt;&#xd;
+				&#xd;
+	&#xd;
+			&#xd;
+			&lt;/li&gt;&#xd;
+		&#xd;
+			&#xd;
+			&lt;li&gt;&#xd;
+				&lt;a href=&apos;SelectCat.action?catId=23&apos;&gt;Electronics&lt;/a&gt;&#xd;
+				&#xd;
+					&lt;ul&gt;&#xd;
+					&#xd;
+						&#xd;
+						&lt;li&gt;&lt;a href=&apos;SelectCat.action?catId=25&apos;&gt;Cameras&lt;/a&gt;&lt;/li&gt;&#xd;
+					&#xd;
+						&#xd;
+						&lt;li&gt;&lt;a href=&apos;SelectCat.action?catId=27&apos;&gt;Phones&lt;/a&gt;&lt;/li&gt;&#xd;
+					&#xd;
+						&#xd;
+						&lt;li&gt;&lt;a href=&apos;SelectCat.action?catId=26&apos;&gt;Tablets&lt;/a&gt;&lt;/li&gt;&#xd;
+					&#xd;
+					&lt;/ul&gt;&#xd;
+				&#xd;
+	&#xd;
+			&#xd;
+			&lt;/li&gt;&#xd;
+		&#xd;
+			&#xd;
+			&lt;li&gt;&#xd;
+				&lt;a href=&apos;SelectCat.action?catId=24&apos;&gt;Home &amp; Garden&lt;/a&gt;&#xd;
+				&#xd;
+					&lt;ul&gt;&#xd;
+					&#xd;
+						&#xd;
+						&lt;li&gt;&lt;a href=&apos;SelectCat.action?catId=29&apos;&gt;Clocks&lt;/a&gt;&lt;/li&gt;&#xd;
+					&#xd;
+						&#xd;
+						&lt;li&gt;&lt;a href=&apos;SelectCat.action?catId=28&apos;&gt;Kitchen&lt;/a&gt;&lt;/li&gt;&#xd;
+					&#xd;
+						&#xd;
+						&lt;li&gt;&lt;a href=&apos;SelectCat.action?catId=30&apos;&gt;Lawnmowers&lt;/a&gt;&lt;/li&gt;&#xd;
+					&#xd;
+					&lt;/ul&gt;&#xd;
+				&#xd;
+	&#xd;
+			&#xd;
+			&lt;/li&gt;&#xd;
+		&#xd;
+			&#xd;
+			&lt;li&gt;&#xd;
+				&lt;a href=&apos;SelectCat.action?catId=21&apos;&gt;Gifts&lt;/a&gt;&#xd;
+				&#xd;
+	&#xd;
+			&#xd;
+			&lt;/li&gt;&#xd;
+			&#xd;
+		&lt;/ul&gt;&#xd;
+	  &lt;/li&gt;&#xd;
+	   &lt;li class=&quot;has-mega-menu&quot;&gt;&lt;a href=&quot;#&quot;&gt;Brands&lt;/a&gt;&#xd;
+	  	&lt;ul class=&quot;mega-menu&quot;&gt;&#xd;
+	  		&lt;li&gt;&#xd;
+		   		&#xd;
+		   		&#xd;
+						&#xd;
+				&#xd;
+				    		&#xd;
+				&#xd;
+					&#xd;
+						&lt;div class=&quot;column-1-3&quot;&gt;&lt;ul&gt;&#xd;
+					&#xd;
+					&#xd;
+					&lt;li&gt;&lt;a href=&apos;ShowSearchByManufacturerResultsByLink.action?manuId=15&apos;&gt;Acctim&lt;/a&gt;&lt;/li&gt;&#xd;
+				&#xd;
+					&#xd;
+					&#xd;
+					&lt;li&gt;&lt;a href=&apos;ShowSearchByManufacturerResultsByLink.action?manuId=25&apos;&gt;Activision&lt;/a&gt;&lt;/li&gt;&#xd;
+				&#xd;
+					&#xd;
+					&#xd;
+					&lt;li&gt;&lt;a href=&apos;ShowSearchByManufacturerResultsByLink.action?manuId=13&apos;&gt;Amazon&lt;/a&gt;&lt;/li&gt;&#xd;
+				&#xd;
+					&#xd;
+					&#xd;
+					&lt;li&gt;&lt;a href=&apos;ShowSearchByManufacturerResultsByLink.action?manuId=14&apos;&gt;Apple&lt;/a&gt;&lt;/li&gt;&#xd;
+				&#xd;
+					&#xd;
+					&#xd;
+					&lt;li&gt;&lt;a href=&apos;ShowSearchByManufacturerResultsByLink.action?manuId=17&apos;&gt;Bosch&lt;/a&gt;&lt;/li&gt;&#xd;
+				&#xd;
+					&#xd;
+					&#xd;
+					&lt;li&gt;&lt;a href=&apos;ShowSearchByManufacturerResultsByLink.action?manuId=20&apos;&gt;Brabantia&lt;/a&gt;&lt;/li&gt;&#xd;
+				&#xd;
+					&#xd;
+					&#xd;
+					&lt;li&gt;&lt;a href=&apos;ShowSearchByManufacturerResultsByLink.action?manuId=19&apos;&gt;Brita&lt;/a&gt;&lt;/li&gt;&#xd;
+				&#xd;
+					&#xd;
+					&#xd;
+					&lt;li&gt;&lt;a href=&apos;ShowSearchByManufacturerResultsByLink.action?manuId=6&apos;&gt;Canon&lt;/a&gt;&lt;/li&gt;&#xd;
+				&#xd;
+					&#xd;
+					&#xd;
+					&lt;li&gt;&lt;a href=&apos;ShowSearchByManufacturerResultsByLink.action?manuId=12&apos;&gt;DeLonghi&lt;/a&gt;&lt;/li&gt;&#xd;
+				&#xd;
+					&#xd;
+						&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;column-1-3&quot;&gt;&lt;ul&gt;&#xd;
+						&#xd;
+					&#xd;
+					&#xd;
+					&lt;li&gt;&lt;a href=&apos;ShowSearchByManufacturerResultsByLink.action?manuId=16&apos;&gt;Eddingtons&lt;/a&gt;&lt;/li&gt;&#xd;
+				&#xd;
+					&#xd;
+					&#xd;
+					&lt;li&gt;&lt;a href=&apos;ShowSearchByManufacturerResultsByLink.action?manuId=18&apos;&gt;Flymo&lt;/a&gt;&lt;/li&gt;&#xd;
+				&#xd;
+					&#xd;
+					&#xd;
+					&lt;li&gt;&lt;a href=&apos;ShowSearchByManufacturerResultsByLink.action?manuId=4&apos;&gt;Fox&lt;/a&gt;&lt;/li&gt;&#xd;
+				&#xd;
+					&#xd;
+					&#xd;
+					&lt;li&gt;&lt;a href=&apos;ShowSearchByManufacturerResultsByLink.action?manuId=8&apos;&gt;GT Interactive&lt;/a&gt;&lt;/li&gt;&#xd;
+				&#xd;
+					&#xd;
+					&#xd;
+					&lt;li&gt;&lt;a href=&apos;ShowSearchByManufacturerResultsByLink.action?manuId=9&apos;&gt;Hewlett Packard&lt;/a&gt;&lt;/li&gt;&#xd;
+				&#xd;
+					&#xd;
+					&#xd;
+					&lt;li&gt;&lt;a href=&apos;ShowSearchByManufacturerResultsByLink.action?manuId=10&apos;&gt;KonaKart&lt;/a&gt;&lt;/li&gt;&#xd;
+				&#xd;
+					&#xd;
+					&#xd;
+					&lt;li&gt;&lt;a href=&apos;ShowSearchByManufacturerResultsByLink.action?manuId=11&apos;&gt;Lionsgate&lt;/a&gt;&lt;/li&gt;&#xd;
+				&#xd;
+					&#xd;
+					&#xd;
+					&lt;li&gt;&lt;a href=&apos;ShowSearchByManufacturerResultsByLink.action?manuId=5&apos;&gt;Logitech&lt;/a&gt;&lt;/li&gt;&#xd;
+				&#xd;
+					&#xd;
+					&#xd;
+					&lt;li&gt;&lt;a href=&apos;ShowSearchByManufacturerResultsByLink.action?manuId=1&apos;&gt;Matrox&lt;/a&gt;&lt;/li&gt;&#xd;
+				&#xd;
+					&#xd;
+						&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;column-1-3&quot;&gt;&lt;ul&gt;&#xd;
+						&#xd;
+					&#xd;
+					&#xd;
+					&lt;li&gt;&lt;a href=&apos;ShowSearchByManufacturerResultsByLink.action?manuId=2&apos;&gt;Microsoft&lt;/a&gt;&lt;/li&gt;&#xd;
+				&#xd;
+					&#xd;
+					&#xd;
+					&lt;li&gt;&lt;a href=&apos;ShowSearchByManufacturerResultsByLink.action?manuId=24&apos;&gt;Newgate&lt;/a&gt;&lt;/li&gt;&#xd;
+				&#xd;
+					&#xd;
+					&#xd;
+					&lt;li&gt;&lt;a href=&apos;ShowSearchByManufacturerResultsByLink.action?manuId=23&apos;&gt;Nikon&lt;/a&gt;&lt;/li&gt;&#xd;
+				&#xd;
+					&#xd;
+					&#xd;
+					&lt;li&gt;&lt;a href=&apos;ShowSearchByManufacturerResultsByLink.action?manuId=21&apos;&gt;Samsung&lt;/a&gt;&lt;/li&gt;&#xd;
+				&#xd;
+					&#xd;
+					&#xd;
+					&lt;li&gt;&lt;a href=&apos;ShowSearchByManufacturerResultsByLink.action?manuId=7&apos;&gt;Sierra&lt;/a&gt;&lt;/li&gt;&#xd;
+				&#xd;
+					&#xd;
+					&#xd;
+					&lt;li&gt;&lt;a href=&apos;ShowSearchByManufacturerResultsByLink.action?manuId=22&apos;&gt;Sony&lt;/a&gt;&lt;/li&gt;&#xd;
+				&#xd;
+					&#xd;
+					&#xd;
+					&lt;li&gt;&lt;a href=&apos;ShowSearchByManufacturerResultsByLink.action?manuId=3&apos;&gt;Warner&lt;/a&gt;&lt;/li&gt;&#xd;
+				&#xd;
+				&lt;/ul&gt;&lt;/div&gt;&#xd;
+			&lt;/li&gt;&#xd;
+		&lt;/ul&gt;&#xd;
+	  &lt;/li&gt;  &#xd;
+	&lt;/ul&gt;&#xd;
+&#xd;
+	&#xd;
+						&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+ &lt;div id=&quot;breadcrumbs&quot;&gt;&#xd;
+													&#xd;
+	 	&#xd;
+ &lt;/div&gt;&#xd;
+						&#xd;
+						&lt;div id=&quot;content&quot; class=&quot;wide&quot;&gt;&#xd;
+							
+&#xd;
+&#xd;
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+		
+		
+			
+			
+		 
+	 
+
+	 
+
+	&lt;div id=&quot;slideshow&quot;  class=&quot;rounded-corners&quot; &gt;
+	&lt;a href=&quot;SelectProd.action?prodId=34&quot;&gt;
+		&lt;picture id=&quot;slide-1&quot; class=&quot;slide rounded-corners&quot;&gt;
+			&lt;!--[if IE 9]&gt;&lt;video style=&quot;display: none;&quot;&gt;&lt;![endif]--&gt;
+			&lt;source srcset=&quot;/konakart/images/content/home_kindle-fire-hd.jpg&quot; media=&quot;(min-width: 750px)&quot;&gt;
+			&lt;source srcset=&quot;/konakart/images/content/home_kindle-fire-hd-medium.jpg&quot; media=&quot;(min-width: 440px)&quot;&gt;
+			&lt;source srcset=&quot;/konakart/images/content/home_kindle-fire-hd-small.jpg&quot; &gt;
+			&lt;!--[if IE 9]&gt;&lt;/video&gt;&lt;![endif]--&gt;
+			&lt;img srcset=&quot;/konakart/images/content/home_kindle-fire-hd.jpg&quot; alt=&quot;/konakart/images/content/Kindle Fire&quot;&gt;
+		&lt;/picture&gt;
+	&lt;/a&gt;
+	&lt;/div&gt;
+ 
+
+
+	
+	
+	
+	
+
+	
+		
+		
+			
+			
+			
+			
+			
+				
+			 
+			
+			
+		 
+	 
+
+	 
+	
+	 
+	
+	 
+	
+	 
+	
+	&lt;div id=&quot;banners&quot;&gt;
+	
+		&lt;a href=&quot;ShowSpecials.action&quot;&gt;&lt;img id=&quot;banner-1&quot; class=&quot;banner-small rounded-corners&quot; 
+			src=&quot;/konakart/images/content/home_electronics-sale.jpg&quot;/&gt;&lt;/a&gt;
+	 
+	
+		&lt;a href=&quot;SelectCat.action?catId=23&quot;&gt;&lt;img id=&quot;banner-2&quot; class=&quot;banner-small rounded-corners&quot; 
+			src=&quot;/konakart/images/content/home_electronics-sale-2.jpg&quot;/&gt;&lt;/a&gt;
+	 
+	
+		&lt;a href=&quot;SelectProd.action?prodId=32&quot;&gt;&lt;img id=&quot;banner-3&quot; class=&quot;banner-small rounded-corners&quot; 
+			src=&quot;/konakart/images/content/home_windows-8.jpg&quot;/&gt;&lt;/a&gt;
+	 
+	
+		&lt;a href=&quot;SelectProd.action?prodId=35&quot;&gt;&lt;img id=&quot;banner-4&quot; class=&quot;banner-small rounded-corners last-child&quot; 
+			src=&quot;/konakart/images/content/home_iphone-5.jpg&quot;/&gt;&lt;/a&gt;
+	 
+	&lt;/div&gt;
+ 
+
+
+ &#xd;
+					 		&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+	&#xd;
+ &#xd;
+		    	&#xd;
+&lt;script type=&quot;text/javascript&quot;&gt;$(function() {var jc378 = $(&apos;#jc378&apos;);jc378.on(&apos;jcarousel:reload jcarousel:create&apos;, function () {var itemWidth =  180;var width = jc378.width();if (width &lt; 440){itemWidth =  150;}var numItems = Math.floor(width / itemWidth);if (numItems == 0) {numItems = 1;jc378.jcarousel(&apos;items&apos;).css(&apos;width&apos;, itemWidth + &apos;px&apos;);} else {var extra = width - (numItems*itemWidth);var extraPerItem  = extra / numItems;rightMargin = Math.ceil(extraPerItem/2);var leftMargin = Math.floor(extraPerItem/2);jc378.jcarousel(&apos;items&apos;).css(&apos;width&apos;, itemWidth + &apos;px&apos;);jc378.jcarousel(&apos;items&apos;).css(&apos;margin-left&apos;, leftMargin + &apos;px&apos;);jc378.jcarousel(&apos;items&apos;).css(&apos;margin-right&apos;, rightMargin + &apos;px&apos;);}jc378.jcarousel(&apos;scroll&apos;, 0, true, function(scrolled) {setControls(jc378,$(&apos;#jc378-prev&apos;),$(&apos;#jc378-next&apos;));})}).jcarousel({wrap: null});$(&apos;#jc378-prev&apos;).jcarouselControl({method: function() {jc378.jcarousel(&apos;scroll&apos;, &apos;-=&apos;+jc378.jcarousel(&apos;visible&apos;).length, true, function(scrolled) {setControls(jc378,$(&apos;#jc378-prev&apos;),$(&apos;#jc378-next&apos;));})} }); $(&apos;#jc378-next&apos;).jcarouselControl({method: function() {jc378.jcarousel(&apos;scroll&apos;, &apos;+=&apos;+jc378.jcarousel(&apos;visible&apos;).length, true, function(scrolled) {setControls(jc378,$(&apos;#jc378-prev&apos;),$(&apos;#jc378-next&apos;));})} }); jc378.swipe({swipeRight: function(event, direction, distance, duration, fingerCount) {jc378.jcarousel(&apos;scroll&apos;, &apos;-=&apos;+jc378.jcarousel(&apos;visible&apos;).length, true, function(scrolled) {setControls(jc378,$(&apos;#jc378-prev&apos;),$(&apos;#jc378-next&apos;));}) },swipeLeft: function(event, direction, distance, duration, fingerCount) {jc378.jcarousel(&apos;scroll&apos;, &apos;+=&apos;+jc378.jcarousel(&apos;visible&apos;).length, true, function(scrolled) {setControls(jc378,$(&apos;#jc378-prev&apos;),$(&apos;#jc378-next&apos;));}) }});});&lt;/script&gt;&lt;div class=&quot;item-area wide rounded-corners&quot;&gt;&lt;div class=&quot;item-area-header&quot;&gt;&lt;h2 class=&quot;item-area-title&quot;&gt;New Arrivals&lt;/h2&gt;&lt;div class=&quot;item-area-navigation jcarousel-wrapper&quot;&gt;&lt;a href=&quot;#&quot; id=&quot;jc378-prev&quot; class=&quot;jcarousel-control-prev jcarousel-border-prev&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#&quot; id=&quot;jc378-next&quot; class=&quot;jcarousel-control-next jcarousel-border-next&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&quot;jc378&quot; class=&quot;jcarousel&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;div class=&quot;item&quot;&gt;&lt;div class=&quot;item-over&quot; id=&quot;101ov-58&quot; &gt;&lt;div class=&quot;items-left green&quot;&gt;In&lt;br/&gt;Stock&lt;/div&gt;&lt;div class=&quot;item-buttons-container&quot;&gt;&lt;div class=&quot;item-buttons centered&quot;&gt;&lt;a class=&quot;add-to-cart-button button small-rounded-corners&quot; href=&quot;#&quot; id=&quot;101atc-58&quot; &gt;Add to Cart&lt;/a&gt;&lt;div class=&quot;add-to-wishlist-container centered&quot;&gt;&lt;span &gt;&lt;img  class=&quot;plus-button&quot; src=&quot;/konakart/images/plus-button.png&quot; border=&quot;0&quot; alt=&quot;Add to Wish List&quot; title=&quot;Add to Wish List&quot; &gt;&lt;a class=&quot;add-to-wishlist&quot; href=&quot;#&quot; id=&quot;101atc-58&quot; &gt;Add to Wish List&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;item-overlay&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;img  class=&quot;item-img&quot; src=&quot;/konakart/images/prod/F/F/0/6/FF06923B-46B1-4F4B-9A6F-A68276A56FE5_1_medium.jpg&quot; border=&quot;0&quot; alt=&quot;Office Home and Student 2019&quot; title=&quot;Office Home and Student 2019&quot; &gt;&lt;a class=&quot;item-title&quot; href=&quot;SelectProd.action?prodId=58&quot; &gt;Office Home and Student 2019&lt;/a&gt;&lt;div class=&quot;rating&quot;&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt; (0 Reviews)&lt;/div&gt;&lt;div class=&quot;pricing&quot;&gt;&lt;div class=&quot;price&quot;&gt;$159.99&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div class=&quot;item&quot;&gt;&lt;div class=&quot;item-over&quot; id=&quot;993ov-62&quot; &gt;&lt;div class=&quot;items-left green&quot;&gt;In&lt;br/&gt;Stock&lt;/div&gt;&lt;div class=&quot;item-buttons-container&quot;&gt;&lt;div class=&quot;item-buttons centered&quot;&gt;&lt;a class=&quot;add-to-cart-button button small-rounded-corners&quot; href=&quot;#&quot; id=&quot;993atc-62&quot; &gt;Add to Cart&lt;/a&gt;&lt;div class=&quot;add-to-wishlist-container centered&quot;&gt;&lt;span &gt;&lt;img  class=&quot;plus-button&quot; src=&quot;/konakart/images/plus-button.png&quot; border=&quot;0&quot; alt=&quot;Add to Wish List&quot; title=&quot;Add to Wish List&quot; &gt;&lt;a class=&quot;add-to-wishlist&quot; href=&quot;#&quot; id=&quot;993atc-62&quot; &gt;Add to Wish List&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;item-overlay&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;img  class=&quot;item-img&quot; src=&quot;/konakart/images/prod/C/0/2/C/C02C89ED-CB73-4150-BB41-0726DEE2E5A1_1_medium.jpg&quot; border=&quot;0&quot; alt=&quot;Weather Station Clock&quot; title=&quot;Weather Station Clock&quot; &gt;&lt;a class=&quot;item-title&quot; href=&quot;SelectProd.action?prodId=62&quot; &gt;Weather Station Clock&lt;/a&gt;&lt;div class=&quot;rating&quot;&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt; (0 Reviews)&lt;/div&gt;&lt;div class=&quot;pricing&quot;&gt;&lt;div class=&quot;price&quot;&gt;$21.99&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div class=&quot;item&quot;&gt;&lt;div class=&quot;item-over&quot; id=&quot;458ov-42&quot; &gt;&lt;div class=&quot;items-left green&quot;&gt;In&lt;br/&gt;Stock&lt;/div&gt;&lt;div class=&quot;item-buttons-container&quot;&gt;&lt;div class=&quot;item-buttons centered&quot;&gt;&lt;a class=&quot;add-to-cart-button button small-rounded-corners&quot; href=&quot;#&quot; id=&quot;458atc-42&quot; &gt;Add to Cart&lt;/a&gt;&lt;div class=&quot;add-to-wishlist-container centered&quot;&gt;&lt;span &gt;&lt;img  class=&quot;plus-button&quot; src=&quot;/konakart/images/plus-button.png&quot; border=&quot;0&quot; alt=&quot;Add to Wish List&quot; title=&quot;Add to Wish List&quot; &gt;&lt;a class=&quot;add-to-wishlist&quot; href=&quot;#&quot; id=&quot;458atc-42&quot; &gt;Add to Wish List&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;item-overlay&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;img  class=&quot;item-img&quot; src=&quot;/konakart/images/prod/1/1/B/C/11BC0D25-1B08-4141-BABB-1B1E633CB382_1_medium.jpg&quot; border=&quot;0&quot; alt=&quot;Bosch SHM 38G&quot; title=&quot;Bosch SHM 38G&quot; &gt;&lt;a class=&quot;item-title&quot; href=&quot;SelectProd.action?prodId=42&quot; &gt;Bosch SHM 38G&lt;/a&gt;&lt;div class=&quot;rating&quot;&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt; (0 Reviews)&lt;/div&gt;&lt;div class=&quot;pricing&quot;&gt;&lt;div class=&quot;price&quot;&gt;$55.95&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div class=&quot;item&quot;&gt;&lt;div class=&quot;item-over&quot; id=&quot;314ov-38&quot; &gt;&lt;div class=&quot;items-left green&quot;&gt;In&lt;br/&gt;Stock&lt;/div&gt;&lt;div class=&quot;item-buttons-container&quot;&gt;&lt;div class=&quot;item-buttons centered&quot;&gt;&lt;a class=&quot;add-to-cart-button button small-rounded-corners&quot; href=&quot;#&quot; id=&quot;314atc-38&quot; &gt;Add to Cart&lt;/a&gt;&lt;div class=&quot;add-to-wishlist-container centered&quot;&gt;&lt;span &gt;&lt;img  class=&quot;plus-button&quot; src=&quot;/konakart/images/plus-button.png&quot; border=&quot;0&quot; alt=&quot;Add to Wish List&quot; title=&quot;Add to Wish List&quot; &gt;&lt;a class=&quot;add-to-wishlist&quot; href=&quot;#&quot; id=&quot;314atc-38&quot; &gt;Add to Wish List&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;item-overlay&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;img  class=&quot;item-img&quot; src=&quot;/konakart/images/prod/B/1/8/1/B181BD28-2701-4703-A30F-5056517A55C7_1_medium.jpg&quot; border=&quot;0&quot; alt=&quot;Acctim Metal Clock&quot; title=&quot;Acctim Metal Clock&quot; &gt;&lt;a class=&quot;item-title&quot; href=&quot;SelectProd.action?prodId=38&quot; &gt;Acctim Metal Clock&lt;/a&gt;&lt;div class=&quot;rating&quot;&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt; (0 Reviews)&lt;/div&gt;&lt;div class=&quot;pricing&quot;&gt;&lt;div class=&quot;price&quot;&gt;$21.99&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div class=&quot;item&quot;&gt;&lt;div class=&quot;item-over&quot; id=&quot;417ov-55&quot; &gt;&lt;div class=&quot;items-left green&quot;&gt;In&lt;br/&gt;Stock&lt;/div&gt;&lt;div class=&quot;item-buttons-container&quot;&gt;&lt;div class=&quot;item-buttons centered&quot;&gt;&lt;a class=&quot;add-to-cart-button button small-rounded-corners&quot; href=&quot;#&quot; id=&quot;417atc-55&quot; &gt;Add to Cart&lt;/a&gt;&lt;div class=&quot;add-to-wishlist-container centered&quot;&gt;&lt;span &gt;&lt;img  class=&quot;plus-button&quot; src=&quot;/konakart/images/plus-button.png&quot; border=&quot;0&quot; alt=&quot;Add to Wish List&quot; title=&quot;Add to Wish List&quot; &gt;&lt;a class=&quot;add-to-wishlist&quot; href=&quot;#&quot; id=&quot;417atc-55&quot; &gt;Add to Wish List&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;item-overlay&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;img  class=&quot;item-img&quot; src=&quot;/konakart/images/prod/5/E/8/9/5E89B135-269C-4094-81F1-A71C98D1412A_1_medium.jpg&quot; border=&quot;0&quot; alt=&quot;Ministry Clock&quot; title=&quot;Ministry Clock&quot; &gt;&lt;a class=&quot;item-title&quot; href=&quot;SelectProd.action?prodId=55&quot; &gt;Ministry Clock&lt;/a&gt;&lt;div class=&quot;rating&quot;&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt; (0 Reviews)&lt;/div&gt;&lt;div class=&quot;pricing&quot;&gt;&lt;div class=&quot;price&quot;&gt;$83.99&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div class=&quot;item&quot;&gt;&lt;div class=&quot;item-over&quot; id=&quot;677ov-34&quot; &gt;&lt;div class=&quot;items-left green&quot;&gt;In&lt;br/&gt;Stock&lt;/div&gt;&lt;div class=&quot;item-buttons-container&quot;&gt;&lt;div class=&quot;item-buttons centered&quot;&gt;&lt;a class=&quot;add-to-cart-button button small-rounded-corners&quot; href=&quot;#&quot; id=&quot;677atc-34&quot; &gt;Add to Cart&lt;/a&gt;&lt;div class=&quot;add-to-wishlist-container centered&quot;&gt;&lt;span &gt;&lt;img  class=&quot;plus-button&quot; src=&quot;/konakart/images/plus-button.png&quot; border=&quot;0&quot; alt=&quot;Add to Wish List&quot; title=&quot;Add to Wish List&quot; &gt;&lt;a class=&quot;add-to-wishlist&quot; href=&quot;#&quot; id=&quot;677atc-34&quot; &gt;Add to Wish List&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;item-overlay&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;img  class=&quot;item-img&quot; src=&quot;/konakart/images/prod/5/A/A/C/5AAC7490-1BB8-4980-BA0A-F49B25ADBA71_1_medium.jpg&quot; border=&quot;0&quot; alt=&quot;Kindle Fire HD&quot; title=&quot;Kindle Fire HD&quot; &gt;&lt;a class=&quot;item-title&quot; href=&quot;SelectProd.action?prodId=34&quot; &gt;Kindle Fire HD&lt;/a&gt;&lt;div class=&quot;rating&quot;&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt; (0 Reviews)&lt;/div&gt;&lt;div class=&quot;pricing&quot;&gt;&lt;div class=&quot;price&quot;&gt;$199.99&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div class=&quot;item&quot;&gt;&lt;div class=&quot;item-over&quot; id=&quot;992ov-51&quot; &gt;&lt;div class=&quot;items-left green&quot;&gt;In&lt;br/&gt;Stock&lt;/div&gt;&lt;div class=&quot;item-buttons-container&quot;&gt;&lt;div class=&quot;item-buttons centered&quot;&gt;&lt;a class=&quot;add-to-cart-button button small-rounded-corners&quot; href=&quot;#&quot; id=&quot;992atc-51&quot; &gt;Add to Cart&lt;/a&gt;&lt;div class=&quot;add-to-wishlist-container centered&quot;&gt;&lt;span &gt;&lt;img  class=&quot;plus-button&quot; src=&quot;/konakart/images/plus-button.png&quot; border=&quot;0&quot; alt=&quot;Add to Wish List&quot; title=&quot;Add to Wish List&quot; &gt;&lt;a class=&quot;add-to-wishlist&quot; href=&quot;#&quot; id=&quot;992atc-51&quot; &gt;Add to Wish List&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;item-overlay&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;img  class=&quot;item-img&quot; src=&quot;/konakart/images/prod/B/0/C/B/B0CBFAA6-C865-4DDC-9451-3ABEC85FB2D2_1_medium.jpg&quot; border=&quot;0&quot; alt=&quot;Canon PowerShot SX40&quot; title=&quot;Canon PowerShot SX40&quot; &gt;&lt;a class=&quot;item-title&quot; href=&quot;SelectProd.action?prodId=51&quot; &gt;Canon PowerShot SX40&lt;/a&gt;&lt;div class=&quot;rating&quot;&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt; (0 Reviews)&lt;/div&gt;&lt;div class=&quot;pricing&quot;&gt;&lt;div class=&quot;price&quot;&gt;$439.99&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div class=&quot;item&quot;&gt;&lt;div class=&quot;item-over&quot; id=&quot;89ov-47&quot; &gt;&lt;div class=&quot;items-left green&quot;&gt;In&lt;br/&gt;Stock&lt;/div&gt;&lt;div class=&quot;item-buttons-container&quot;&gt;&lt;div class=&quot;item-buttons centered&quot;&gt;&lt;a class=&quot;add-to-cart-button button small-rounded-corners&quot; href=&quot;#&quot; id=&quot;89atc-47&quot; &gt;Add to Cart&lt;/a&gt;&lt;div class=&quot;add-to-wishlist-container centered&quot;&gt;&lt;span &gt;&lt;img  class=&quot;plus-button&quot; src=&quot;/konakart/images/plus-button.png&quot; border=&quot;0&quot; alt=&quot;Add to Wish List&quot; title=&quot;Add to Wish List&quot; &gt;&lt;a class=&quot;add-to-wishlist&quot; href=&quot;#&quot; id=&quot;89atc-47&quot; &gt;Add to Wish List&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;item-overlay&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;img  class=&quot;item-img&quot; src=&quot;/konakart/images/prod/6/D/F/6/6DF6E083-1AFA-4ADB-B91D-8C82D2CB3013_1_medium.jpg&quot; border=&quot;0&quot; alt=&quot;iPhone XS&quot; title=&quot;iPhone XS&quot; &gt;&lt;a class=&quot;item-title&quot; href=&quot;SelectProd.action?prodId=47&quot; &gt;iPhone XS&lt;/a&gt;&lt;div class=&quot;rating&quot;&gt;&lt;a class=&quot;item-title&quot; href=&quot;SelectProd.action?prodId=47&amp;showRevs=t&quot; &gt;&lt;span class=&quot;star full&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star full&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star full&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star full&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt; (2 Reviews)&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;pricing&quot;&gt;&lt;div class=&quot;price&quot;&gt;$999.99&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div class=&quot;item&quot;&gt;&lt;div class=&quot;item-over&quot; id=&quot;957ov-59&quot; &gt;&lt;div class=&quot;items-left green&quot;&gt;In&lt;br/&gt;Stock&lt;/div&gt;&lt;div class=&quot;item-buttons-container&quot;&gt;&lt;div class=&quot;item-buttons centered&quot;&gt;&lt;a class=&quot;add-to-cart-button button small-rounded-corners&quot; href=&quot;#&quot; id=&quot;957atc-59&quot; &gt;Add to Cart&lt;/a&gt;&lt;div class=&quot;add-to-wishlist-container centered&quot;&gt;&lt;span &gt;&lt;img  class=&quot;plus-button&quot; src=&quot;/konakart/images/plus-button.png&quot; border=&quot;0&quot; alt=&quot;Add to Wish List&quot; title=&quot;Add to Wish List&quot; &gt;&lt;a class=&quot;add-to-wishlist&quot; href=&quot;#&quot; id=&quot;957atc-59&quot; &gt;Add to Wish List&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;item-overlay&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;img  class=&quot;item-img&quot; src=&quot;/konakart/images/prod/E/7/B/8/E7B8896B-3199-4C4A-966D-9CCD3EFAA33C_1_medium.jpg&quot; border=&quot;0&quot; alt=&quot;MUM48R1 Food Processor&quot; title=&quot;MUM48R1 Food Processor&quot; &gt;&lt;a class=&quot;item-title&quot; href=&quot;SelectProd.action?prodId=59&quot; &gt;MUM48R1 Food Processor&lt;/a&gt;&lt;div class=&quot;rating&quot;&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt; (0 Reviews)&lt;/div&gt;&lt;div class=&quot;pricing&quot;&gt;&lt;div class=&quot;price&quot;&gt;$199.49&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div class=&quot;item&quot;&gt;&lt;div class=&quot;item-over&quot; id=&quot;458ov-63&quot; &gt;&lt;div class=&quot;items-left red&quot;&gt;Sold&lt;br/&gt;Out&lt;/div&gt;&lt;div class=&quot;item-buttons-container&quot;&gt;&lt;div class=&quot;item-buttons centered&quot;&gt;&lt;a class=&quot;add-to-cart-button button small-rounded-corners&quot; href=&quot;#&quot; id=&quot;458atc-63&quot; &gt;Add to Cart&lt;/a&gt;&lt;div class=&quot;add-to-wishlist-container centered&quot;&gt;&lt;span &gt;&lt;img  class=&quot;plus-button&quot; src=&quot;/konakart/images/plus-button.png&quot; border=&quot;0&quot; alt=&quot;Add to Wish List&quot; title=&quot;Add to Wish List&quot; &gt;&lt;a class=&quot;add-to-wishlist&quot; href=&quot;#&quot; id=&quot;458atc-63&quot; &gt;Add to Wish List&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;item-overlay&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;img  class=&quot;item-img&quot; src=&quot;/konakart/images/prod/8/6/D/7/86D70649-28A3-492D-A18E-B6BB0934EB7C_1_medium.jpg&quot; border=&quot;0&quot; alt=&quot;Call Of Duty&quot; title=&quot;Call Of Duty&quot; &gt;&lt;a class=&quot;item-title&quot; href=&quot;SelectProd.action?prodId=63&quot; &gt;Call Of Duty&lt;/a&gt;&lt;div class=&quot;rating&quot;&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt; (0 Reviews)&lt;/div&gt;&lt;div class=&quot;pricing&quot;&gt;&lt;div class=&quot;price&quot;&gt;$39.99&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&#xd;
+&#xd;
+ &#xd;
+							&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+		    	&#xd;
+&lt;script type=&quot;text/javascript&quot;&gt;$(function() {var jc728 = $(&apos;#jc728&apos;);jc728.on(&apos;jcarousel:reload jcarousel:create&apos;, function () {var itemWidth =  180;var width = jc728.width();if (width &lt; 440){itemWidth =  150;}var numItems = Math.floor(width / itemWidth);if (numItems == 0) {numItems = 1;jc728.jcarousel(&apos;items&apos;).css(&apos;width&apos;, itemWidth + &apos;px&apos;);} else {var extra = width - (numItems*itemWidth);var extraPerItem  = extra / numItems;rightMargin = Math.ceil(extraPerItem/2);var leftMargin = Math.floor(extraPerItem/2);jc728.jcarousel(&apos;items&apos;).css(&apos;width&apos;, itemWidth + &apos;px&apos;);jc728.jcarousel(&apos;items&apos;).css(&apos;margin-left&apos;, leftMargin + &apos;px&apos;);jc728.jcarousel(&apos;items&apos;).css(&apos;margin-right&apos;, rightMargin + &apos;px&apos;);}jc728.jcarousel(&apos;scroll&apos;, 0, true, function(scrolled) {setControls(jc728,$(&apos;#jc728-prev&apos;),$(&apos;#jc728-next&apos;));})}).jcarousel({wrap: null});$(&apos;#jc728-prev&apos;).jcarouselControl({method: function() {jc728.jcarousel(&apos;scroll&apos;, &apos;-=&apos;+jc728.jcarousel(&apos;visible&apos;).length, true, function(scrolled) {setControls(jc728,$(&apos;#jc728-prev&apos;),$(&apos;#jc728-next&apos;));})} }); $(&apos;#jc728-next&apos;).jcarouselControl({method: function() {jc728.jcarousel(&apos;scroll&apos;, &apos;+=&apos;+jc728.jcarousel(&apos;visible&apos;).length, true, function(scrolled) {setControls(jc728,$(&apos;#jc728-prev&apos;),$(&apos;#jc728-next&apos;));})} }); jc728.swipe({swipeRight: function(event, direction, distance, duration, fingerCount) {jc728.jcarousel(&apos;scroll&apos;, &apos;-=&apos;+jc728.jcarousel(&apos;visible&apos;).length, true, function(scrolled) {setControls(jc728,$(&apos;#jc728-prev&apos;),$(&apos;#jc728-next&apos;));}) },swipeLeft: function(event, direction, distance, duration, fingerCount) {jc728.jcarousel(&apos;scroll&apos;, &apos;+=&apos;+jc728.jcarousel(&apos;visible&apos;).length, true, function(scrolled) {setControls(jc728,$(&apos;#jc728-prev&apos;),$(&apos;#jc728-next&apos;));}) }});});&lt;/script&gt;&lt;div class=&quot;item-area wide rounded-corners&quot;&gt;&lt;div class=&quot;item-area-header&quot;&gt;&lt;h2 class=&quot;item-area-title&quot;&gt;Featured Products&lt;/h2&gt;&lt;div class=&quot;item-area-navigation jcarousel-wrapper&quot;&gt;&lt;a href=&quot;#&quot; id=&quot;jc728-prev&quot; class=&quot;jcarousel-control-prev jcarousel-border-prev&quot;&gt;&lt;/a&gt;&lt;a href=&quot;#&quot; id=&quot;jc728-next&quot; class=&quot;jcarousel-control-next jcarousel-border-next&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=&quot;jc728&quot; class=&quot;jcarousel&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;div class=&quot;item&quot;&gt;&lt;div class=&quot;item-over&quot; id=&quot;996ov-44&quot; &gt;&lt;div class=&quot;items-left green&quot;&gt;In&lt;br/&gt;Stock&lt;/div&gt;&lt;div class=&quot;item-buttons-container&quot;&gt;&lt;div class=&quot;item-buttons centered&quot;&gt;&lt;a class=&quot;add-to-cart-button button small-rounded-corners&quot; href=&quot;#&quot; id=&quot;996atc-44&quot; &gt;Add to Cart&lt;/a&gt;&lt;div class=&quot;add-to-wishlist-container centered&quot;&gt;&lt;span &gt;&lt;img  class=&quot;plus-button&quot; src=&quot;/konakart/images/plus-button.png&quot; border=&quot;0&quot; alt=&quot;Add to Wish List&quot; title=&quot;Add to Wish List&quot; &gt;&lt;a class=&quot;add-to-wishlist&quot; href=&quot;#&quot; id=&quot;996atc-44&quot; &gt;Add to Wish List&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;item-overlay&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;img  class=&quot;item-img&quot; src=&quot;/konakart/images/prod/9/4/C/A/94CA0B48-0BCA-4696-A688-93C626E120F0_1_medium.jpg&quot; border=&quot;0&quot; alt=&quot;Brabantia Touch Bin&quot; title=&quot;Brabantia Touch Bin&quot; &gt;&lt;a class=&quot;item-title&quot; href=&quot;SelectProd.action?prodId=44&quot; &gt;Brabantia Touch Bin&lt;/a&gt;&lt;div class=&quot;rating&quot;&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt; (0 Reviews)&lt;/div&gt;&lt;div class=&quot;pricing&quot;&gt;&lt;div class=&quot;price&quot;&gt;$149.49&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div class=&quot;item&quot;&gt;&lt;div class=&quot;item-over&quot; id=&quot;589ov-40&quot; &gt;&lt;div class=&quot;items-left green&quot;&gt;In&lt;br/&gt;Stock&lt;/div&gt;&lt;div class=&quot;item-buttons-container&quot;&gt;&lt;div class=&quot;item-buttons centered&quot;&gt;&lt;a class=&quot;add-to-cart-button button small-rounded-corners&quot; href=&quot;#&quot; id=&quot;589atc-40&quot; &gt;Add to Cart&lt;/a&gt;&lt;div class=&quot;add-to-wishlist-container centered&quot;&gt;&lt;span &gt;&lt;img  class=&quot;plus-button&quot; src=&quot;/konakart/images/plus-button.png&quot; border=&quot;0&quot; alt=&quot;Add to Wish List&quot; title=&quot;Add to Wish List&quot; &gt;&lt;a class=&quot;add-to-wishlist&quot; href=&quot;#&quot; id=&quot;589atc-40&quot; &gt;Add to Wish List&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;item-overlay&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;img  class=&quot;item-img&quot; src=&quot;/konakart/images/prod/4/A/6/B/4A6B2621-4689-41D7-9BB6-9C2A4200F39E_1_medium.jpg&quot; border=&quot;0&quot; alt=&quot;Rotak 32&quot; title=&quot;Rotak 32&quot; &gt;&lt;a class=&quot;item-title&quot; href=&quot;SelectProd.action?prodId=40&quot; &gt;Rotak 32&lt;/a&gt;&lt;div class=&quot;rating&quot;&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt; (0 Reviews)&lt;/div&gt;&lt;div class=&quot;pricing&quot;&gt;&lt;div class=&quot;price&quot;&gt;$89.99&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div class=&quot;item&quot;&gt;&lt;div class=&quot;item-over&quot; id=&quot;976ov-41&quot; &gt;&lt;div class=&quot;items-left green&quot;&gt;In&lt;br/&gt;Stock&lt;/div&gt;&lt;div class=&quot;item-buttons-container&quot;&gt;&lt;div class=&quot;item-buttons centered&quot;&gt;&lt;a class=&quot;add-to-cart-button button small-rounded-corners&quot; href=&quot;#&quot; id=&quot;976atc-41&quot; &gt;Add to Cart&lt;/a&gt;&lt;div class=&quot;add-to-wishlist-container centered&quot;&gt;&lt;span &gt;&lt;img  class=&quot;plus-button&quot; src=&quot;/konakart/images/plus-button.png&quot; border=&quot;0&quot; alt=&quot;Add to Wish List&quot; title=&quot;Add to Wish List&quot; &gt;&lt;a class=&quot;add-to-wishlist&quot; href=&quot;#&quot; id=&quot;976atc-41&quot; &gt;Add to Wish List&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;item-overlay&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;img  class=&quot;item-img&quot; src=&quot;/konakart/images/prod/9/5/7/8/95782936-65F3-448F-BF8E-A0F5409B5048_1_medium.jpg&quot; border=&quot;0&quot; alt=&quot;Flymo Chevron 34VC&quot; title=&quot;Flymo Chevron 34VC&quot; &gt;&lt;a class=&quot;item-title&quot; href=&quot;SelectProd.action?prodId=41&quot; &gt;Flymo Chevron 34VC&lt;/a&gt;&lt;div class=&quot;rating&quot;&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt; (0 Reviews)&lt;/div&gt;&lt;div class=&quot;pricing&quot;&gt;&lt;div class=&quot;price&quot;&gt;$109.99&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div class=&quot;item&quot;&gt;&lt;div class=&quot;item-over&quot; id=&quot;106ov-59&quot; &gt;&lt;div class=&quot;items-left green&quot;&gt;In&lt;br/&gt;Stock&lt;/div&gt;&lt;div class=&quot;item-buttons-container&quot;&gt;&lt;div class=&quot;item-buttons centered&quot;&gt;&lt;a class=&quot;add-to-cart-button button small-rounded-corners&quot; href=&quot;#&quot; id=&quot;106atc-59&quot; &gt;Add to Cart&lt;/a&gt;&lt;div class=&quot;add-to-wishlist-container centered&quot;&gt;&lt;span &gt;&lt;img  class=&quot;plus-button&quot; src=&quot;/konakart/images/plus-button.png&quot; border=&quot;0&quot; alt=&quot;Add to Wish List&quot; title=&quot;Add to Wish List&quot; &gt;&lt;a class=&quot;add-to-wishlist&quot; href=&quot;#&quot; id=&quot;106atc-59&quot; &gt;Add to Wish List&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;item-overlay&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;img  class=&quot;item-img&quot; src=&quot;/konakart/images/prod/E/7/B/8/E7B8896B-3199-4C4A-966D-9CCD3EFAA33C_1_medium.jpg&quot; border=&quot;0&quot; alt=&quot;MUM48R1 Food Processor&quot; title=&quot;MUM48R1 Food Processor&quot; &gt;&lt;a class=&quot;item-title&quot; href=&quot;SelectProd.action?prodId=59&quot; &gt;MUM48R1 Food Processor&lt;/a&gt;&lt;div class=&quot;rating&quot;&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt; (0 Reviews)&lt;/div&gt;&lt;div class=&quot;pricing&quot;&gt;&lt;div class=&quot;price&quot;&gt;$199.49&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div class=&quot;item&quot;&gt;&lt;div class=&quot;item-over&quot; id=&quot;115ov-42&quot; &gt;&lt;div class=&quot;items-left green&quot;&gt;In&lt;br/&gt;Stock&lt;/div&gt;&lt;div class=&quot;item-buttons-container&quot;&gt;&lt;div class=&quot;item-buttons centered&quot;&gt;&lt;a class=&quot;add-to-cart-button button small-rounded-corners&quot; href=&quot;#&quot; id=&quot;115atc-42&quot; &gt;Add to Cart&lt;/a&gt;&lt;div class=&quot;add-to-wishlist-container centered&quot;&gt;&lt;span &gt;&lt;img  class=&quot;plus-button&quot; src=&quot;/konakart/images/plus-button.png&quot; border=&quot;0&quot; alt=&quot;Add to Wish List&quot; title=&quot;Add to Wish List&quot; &gt;&lt;a class=&quot;add-to-wishlist&quot; href=&quot;#&quot; id=&quot;115atc-42&quot; &gt;Add to Wish List&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;item-overlay&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;img  class=&quot;item-img&quot; src=&quot;/konakart/images/prod/1/1/B/C/11BC0D25-1B08-4141-BABB-1B1E633CB382_1_medium.jpg&quot; border=&quot;0&quot; alt=&quot;Bosch SHM 38G&quot; title=&quot;Bosch SHM 38G&quot; &gt;&lt;a class=&quot;item-title&quot; href=&quot;SelectProd.action?prodId=42&quot; &gt;Bosch SHM 38G&lt;/a&gt;&lt;div class=&quot;rating&quot;&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt; (0 Reviews)&lt;/div&gt;&lt;div class=&quot;pricing&quot;&gt;&lt;div class=&quot;price&quot;&gt;$55.95&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div class=&quot;item&quot;&gt;&lt;div class=&quot;item-over&quot; id=&quot;70ov-33&quot; &gt;&lt;div class=&quot;items-left green&quot;&gt;In&lt;br/&gt;Stock&lt;/div&gt;&lt;div class=&quot;item-buttons-container&quot;&gt;&lt;div class=&quot;item-buttons centered&quot;&gt;&lt;a class=&quot;add-to-cart-button button small-rounded-corners&quot; href=&quot;#&quot; id=&quot;70atc-33&quot; &gt;Add to Cart&lt;/a&gt;&lt;div class=&quot;add-to-wishlist-container centered&quot;&gt;&lt;span &gt;&lt;img  class=&quot;plus-button&quot; src=&quot;/konakart/images/plus-button.png&quot; border=&quot;0&quot; alt=&quot;Add to Wish List&quot; title=&quot;Add to Wish List&quot; &gt;&lt;a class=&quot;add-to-wishlist&quot; href=&quot;#&quot; id=&quot;70atc-33&quot; &gt;Add to Wish List&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;item-overlay&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;img  class=&quot;item-img&quot; src=&quot;/konakart/images/prod/F/9/8/F/F98F155B-2D6D-41C0-897F-3071B6354AD8_1_medium.jpg&quot; border=&quot;0&quot; alt=&quot;De&apos;Longhi BCO 410&quot; title=&quot;De&apos;Longhi BCO 410&quot; &gt;&lt;a class=&quot;item-title&quot; href=&quot;SelectProd.action?prodId=33&quot; &gt;De&apos;Longhi BCO 410&lt;/a&gt;&lt;div class=&quot;rating&quot;&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt; (0 Reviews)&lt;/div&gt;&lt;div class=&quot;pricing&quot;&gt;&lt;div class=&quot;price&quot;&gt;$159.99&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div class=&quot;item&quot;&gt;&lt;div class=&quot;item-over&quot; id=&quot;428ov-43&quot; &gt;&lt;div class=&quot;items-left green&quot;&gt;In&lt;br/&gt;Stock&lt;/div&gt;&lt;div class=&quot;item-buttons-container&quot;&gt;&lt;div class=&quot;item-buttons centered&quot;&gt;&lt;a class=&quot;add-to-cart-button button small-rounded-corners&quot; href=&quot;#&quot; id=&quot;428atc-43&quot; &gt;Add to Cart&lt;/a&gt;&lt;div class=&quot;add-to-wishlist-container centered&quot;&gt;&lt;span &gt;&lt;img  class=&quot;plus-button&quot; src=&quot;/konakart/images/plus-button.png&quot; border=&quot;0&quot; alt=&quot;Add to Wish List&quot; title=&quot;Add to Wish List&quot; &gt;&lt;a class=&quot;add-to-wishlist&quot; href=&quot;#&quot; id=&quot;428atc-43&quot; &gt;Add to Wish List&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;item-overlay&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;img  class=&quot;item-img&quot; src=&quot;/konakart/images/prod/A/2/1/C/A21CA25F-645B-4D88-9539-1407737EC790_1_medium.jpg&quot; border=&quot;0&quot; alt=&quot;Brita Marella XL Water Filter&quot; title=&quot;Brita Marella XL Water Filter&quot; &gt;&lt;a class=&quot;item-title&quot; href=&quot;SelectProd.action?prodId=43&quot; &gt;Brita Marella XL Water Filter&lt;/a&gt;&lt;div class=&quot;rating&quot;&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt; (0 Reviews)&lt;/div&gt;&lt;div class=&quot;pricing&quot;&gt;&lt;div class=&quot;price&quot;&gt;$15.19&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div class=&quot;item&quot;&gt;&lt;div class=&quot;item-over&quot; id=&quot;545ov-39&quot; &gt;&lt;div class=&quot;items-left green&quot;&gt;In&lt;br/&gt;Stock&lt;/div&gt;&lt;div class=&quot;item-buttons-container&quot;&gt;&lt;div class=&quot;item-buttons centered&quot;&gt;&lt;a class=&quot;add-to-cart-button button small-rounded-corners&quot; href=&quot;#&quot; id=&quot;545atc-39&quot; &gt;Add to Cart&lt;/a&gt;&lt;div class=&quot;add-to-wishlist-container centered&quot;&gt;&lt;span &gt;&lt;img  class=&quot;plus-button&quot; src=&quot;/konakart/images/plus-button.png&quot; border=&quot;0&quot; alt=&quot;Add to Wish List&quot; title=&quot;Add to Wish List&quot; &gt;&lt;a class=&quot;add-to-wishlist&quot; href=&quot;#&quot; id=&quot;545atc-39&quot; &gt;Add to Wish List&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;item-overlay&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;img  class=&quot;item-img&quot; src=&quot;/konakart/images/prod/1/5/F/8/15F8FBB1-13DA-4A47-B3D2-0F1E7BECAE7C_1_medium.jpg&quot; border=&quot;0&quot; alt=&quot;Rotak 40 Ergoflex&quot; title=&quot;Rotak 40 Ergoflex&quot; &gt;&lt;a class=&quot;item-title&quot; href=&quot;SelectProd.action?prodId=39&quot; &gt;Rotak 40 Ergoflex&lt;/a&gt;&lt;div class=&quot;rating&quot;&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt;&lt;span class=&quot;star empty&quot; &gt;&lt;/span&gt; (0 Reviews)&lt;/div&gt;&lt;div class=&quot;pricing&quot;&gt;&lt;div class=&quot;price&quot;&gt;$159.99&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&#xd;
+&#xd;
+&#xd;
+							&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+		    	&#xd;
+&#xd;
+&#xd;
+&#xd;
+							&#xd;
+							&#xd;
+				    	&lt;/div&gt;&#xd;
+						&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&#xd;
+&lt;script&gt;&#xd;
+function onBlur(el) {&#xd;
+    if (el.value == &apos;&apos;) {&#xd;
+        el.value = el.defaultValue;&#xd;
+    }&#xd;
+}&#xd;
+function onFocus(el) {&#xd;
+    if (el.value == el.defaultValue) {&#xd;
+        el.value = &apos;&apos;;&#xd;
+    }&#xd;
+}&#xd;
+&#xd;
+$(function() {&#xd;
+	$(&quot;#newsletter-input&quot;).keydown(function (e){&#xd;
+	    if(e.keyCode == 13){&#xd;
+	    	submitNewsletterForm();&#xd;
+	    }&#xd;
+	});&#xd;
+});		&#xd;
+&lt;/script&gt;&#xd;
+&#xd;
+&#xd;
+&lt;div id=&quot;kkfooter&quot;&gt;&#xd;
+    &lt;div id=&quot;contact-info&quot; class=&quot;footer-area narrow&quot;&gt;&#xd;
+    	KonaKart&lt;br /&gt;&#xd;
+		020 7946 0000&lt;br /&gt;&#xd;
+		&lt;a href =&quot;#&quot;&gt;info@konakart.com&lt;/a&gt;&#xd;
+    &lt;/div&gt;&#xd;
+   	&lt;div id=&quot;newsletter&quot; class=&quot;footer-area wide&quot;&gt;&#xd;
+   		Subscribe to our Newsletter&lt;br /&gt;&#xd;
+ 		&lt;input type=&quot;text&quot; id=&quot;newsletter-input&quot; class=&quot;rounded-corners-left&quot; onblur=&quot;onBlur(this)&quot; onfocus=&quot;onFocus(this)&quot; value=&quot;Your Email&quot;&gt;&#xd;
+		&lt;a id=&quot;newsletter-button&quot; class=&quot;rounded-corners-right&quot;&gt;Sign Up&lt;/a&gt;&#xd;
+		&lt;div id=&quot;newsletter-msg&quot;&gt;&lt;/div&gt;&#xd;
+   	&lt;/div&gt;&#xd;
+   	&lt;div id=&quot;links-1&quot; class=&quot;footer-area narrow&quot;&gt;&#xd;
+		&lt;a href =&quot;AboutUs.action&quot;&gt;About Us&lt;/a&gt;&lt;br /&gt;&#xd;
+		&lt;a href =&quot;ShippingAndHandling.action&quot;&gt;Shipping &amp; Handling&lt;/a&gt;&lt;br /&gt;&#xd;
+		&lt;a href =&quot;Returns.action&quot;&gt;Returns&lt;/a&gt;&lt;br /&gt;&#xd;
+		&lt;a href =&quot;InternationalOrders.action&quot;&gt;International Orders&lt;/a&gt;&lt;br /&gt;&#xd;
+   	&lt;/div&gt;&#xd;
+   	&lt;div id=&quot;links-2&quot; class=&quot;footer-area narrow&quot;&gt;&#xd;
+		&lt;a href =&quot;PrivacyPolicy.action&quot;&gt;Privacy Policy&lt;/a&gt;&lt;br /&gt;&#xd;
+		&lt;a href =&quot;TermsOfUse.action&quot;&gt;Terms of use&lt;/a&gt;&lt;br /&gt;&#xd;
+		&lt;a href =&quot;Help.action&quot;&gt;Help&lt;/a&gt;&lt;br /&gt;&#xd;
+		&lt;a href =&quot;ContactUs.action&quot;&gt;Contact Us&lt;/a&gt;&lt;br /&gt;&#xd;
+   	&lt;/div&gt;&#xd;
+   	&lt;div id=&quot;social&quot; class=&quot;footer-area narrow last-child&quot;&gt;&#xd;
+		Connect with us&lt;br /&gt;&#xd;
+		&lt;a href=&quot;http://www.twitter.com&quot; target=&quot;_blank&quot; class=&quot;fa fa-twitter-square&quot;&gt;&lt;/a&gt;&#xd;
+		&lt;a href=&quot;http://www.facebook.com&quot; target=&quot;_blank&quot; class=&quot;fa fa-facebook-square&quot;&gt;&lt;/a&gt;&#xd;
+		&lt;a href=&quot;http://www.pinterest.com&quot; target=&quot;_blank&quot; class=&quot;fa fa-pinterest-square&quot;&gt;&lt;/a&gt;&#xd;
+   	&lt;/div&gt;&#xd;
+&lt;/div&gt;&#xd;
+		    		&lt;/div&gt;&#xd;
+	    		&lt;/div&gt;&#xd;
+				&#xd;
+&lt;div id=&quot;copyright-container&quot;&gt;&#xd;
+	&lt;!-- Please leave the &quot;Powered by KonaKart&quot; link - it&apos;s a condition of the licence  --&gt;&#xd;
+	&lt;div id=&quot;copyright&quot;&gt;© 2014 - 2020 KonaKart Store - Powered by &lt;a href=&quot;https://www.konakart.com&quot;&gt;KonaKart&lt;/a&gt;&lt;/div&gt;&#xd;
+&lt;/div&gt;&#xd;
+						&#xd;
+    &#xd;
+			&lt;/body&gt;&#xd;
+		&lt;/html&gt;&#xd;
+	&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">JSESSIONID=8EA9541ECFE4BDE3C7BEC73D3B8DAE16.server1.konakart.com; CUSTOMER_UUID=c762dbb2-1025-453c-907d-9f52f9694bc4</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://www.konakart.com/konakart/login.action</java.net.URL>
+</httpSample>
+<httpSample t="312" it="0" lt="312" ct="94" ts="1725430267747" s="true" lb="-72" rc="200" rm="OK" tn="" dt="text" de="" by="5025" sc="1" ec="0" ng="0" na="0" hn="MAVBNG1121219">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+cache-control: private, max-age=527, stale-if-error=10589
+content-type: application/json
+date: Wed, 04 Sep 2024 06:11:07 GMT
+via: 1.1 google
+Alt-Svc: h3=&quot;:443&quot;; ma=2592000,h3-29=&quot;:443&quot;; ma=2592000
+Connection: close
+Transfer-Encoding: chunked
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.5
+Host: contile.services.mozilla.com
+Priority: u=4
+Accept-Encoding: gzip, deflate, br, zstd
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+Accept: */*
+</requestHeader>
+  <responseData class="java.lang.String">{&quot;tiles&quot;:[{&quot;id&quot;:74343,&quot;name&quot;:&quot;AliExpress&quot;,&quot;url&quot;:&quot;https://s.click.aliexpress.com/e/byrlillA?af=amp1250\u0026dp=89598936029855744\u0026mfadid=adm&quot;,&quot;click_url&quot;:&quot;https://bridge.sfo1.ap01.net/ctp?version=1.0.0\u0026encp=HF3vIpkX7RcdjpkX4Z8d4p8_fQDXfpfd7ncqjnaz7nIZgGeYJm2uHF3wJnjvJnDufpfUxmIVfBIkxZdWxnzq5FcqIF_RiF_w5CbZ5R4nJZlnJr7Rirxzj%3DwTIG4W7n7vI%3D3wxweNxncuxZdg3%3DTXCd3R4DdPFGj4inTkCw3Efk_lDBIuxr2zj%3DwTIG4W7R7kx%3DwqgG4nGZ3Q1pxXfn3NIC8mHnDkHQDr1%3D8W4Q8XfZ7wf%3DDm1pjnGm2mfQ2k4QHa4QqXfZfd1pIQIFfr4ZxkHn8kHQIQ4QDr7ReOgClWftaW7RedxZ7vgClWfBIWjGfXiCkXfplnx9EWiCkXfQL_fBIkxrfXgCfX1p8d4Cxr1tIkxredHQkZfCLY4CDr4ZxnHG3ZiF2zfZlafQDd4Zx_7nckxmWzfOIdj%3Dqz4Zxr4ZHnjFjvgC8nxr7kgClk7ndZj9eKiF3agBkX7nwUjnwqgBkX7R3aiF2zftIojmwqspkW7R7kxnfzftIYj9eogCbnIr2zftIojmwqgCfd1p8a1CbZfBIXjFEYsFwqgCL_4Cqa1Cfmfp8_1pDd4Z2k7ndZj92zftIYj%3D7TgFINJ94w7Rekj%3DwqgCbnI9eQiF2zfQbWfCfZ1CH_fOIQj9wvIpkXfBIQxnEvIpkXfp8Z7ReTiF2zfCbW4YIqxreOiF2zfCba4BIqxreNI9IvIpkXfpbr7n3Zx%3DcdI9IvIpkX4Q8Z7n3Zx%3DwViF2zfCb_4YINI94TiF2z1pqd1CL_fZHX1pqY4pfdfp8nxmXVj%3D_dJCkX7nEUEE7fgDX82C4nEw3%2F1cxm4m_nxR4vjFd6Cmqwfq7XBZ7_IZNI2FzkJrD_CRe91ENn4rjQDcwRxrw4Bww54GNciFNnJrwPiEvQxpEffrvrEm_NDZeeimd4xRjPxD3DErDZDlIC4nziBZN%3DCnc9DrIS7C7tfkAaHn_QfCE2fp3%2FJccBJqDYx%3DIRCBIYj%3DzZgB%2FM6QTS1Y%2FniFwQgBkX1YkX1YkX1YkX1YkX7n4WgCbUfplWftWr4pfkfYWYfCqm1ClTfCDkfCHXfQDTftWXfQx_fBWXfplkfBXUIGjkHF8T5tXkiFXwxrbTHncQimIvJ%3DXKHmzUI9EQiGIw\u0026ctag=89598936029855744&quot;,&quot;image_url&quot;:&quot;https://tiles-cdn.prod.ads.prod.webservices.mozgcp.net/ydUu3ZjEx4-B5Lufmypmi0NqdfuZh3doEVs2ffjQNVk=.10324.jpg&quot;,&quot;impression_url&quot;:&quot;https://imp.mt48.net/static?id=7RHzfOIXjFEYsBdvIpka1CD%2B1pqZ4QbY1CLd4Cxk4tIWHG7kJnEYgFIvxnEnJrNWxnwmHF4%2Bj%3DwTIGfnxrEOfCkXfplkfBIZjF8YgF%2Bwjr3NHOIZjF8ZgCxkfZ2Z7nckxYdvIpkZfCLY4CDr4ZqnHF3m5FwqgCxkfZ2Z7n4NJGeNiFjU5FwqgC8X1CH%2BfBINI%3DjYJrEW5FwqgCld4plmfC8d7R3%2Bx%3DDuiF2zfOIZJ%3Dzk5F%2BdJF7wxQkX7n4YIFckiGIw5FwqgClWfQfnx%3DXNHmEuIF%2Bk5FwqgClWfpxnHF2uxmETIF4kiFzU5FwqgCL%2B4Cqa1CfmfCL%2BfQ2Z4CbY&quot;,&quot;image_size&quot;:200},{&quot;id&quot;:74357,&quot;name&quot;:&quot;Amazon&quot;,&quot;url&quot;:&quot;https://www.amazon.in/?tag=admpdesktopin-21\u0026ref=pd_sl_56a3a6b075666ed10abcf0afe6df4ceefaf9cb1a5e8bb8165992f4f3\u0026mfadid=adm&quot;,&quot;click_url&quot;:&quot;https://bridge.sfo1.ap01.net/ctp?version=1.0.0\u0026encp=HF3vIpkY7RcdjpkX4Z8d4p8_fQDXfpfd7ncqjnaz7nIZgGeYJm2uHF3wJnjvJnDufpfUxmIVfBIkxZdWxnzq5FcqIF_RiF_w5CbZ5R4nJZlnJr7Rirxzj%3DwTIG4W7n7vI%3D3wxweNxncuxZdQ3d7nHZ7aIq_DFnN4fqDYFFvefk_DFC71JEIoCE3ticwuCnd43kIuFw3iidvSDnviEdIuFEjI4EqYBGNIEcITCkj6iDzl3C71E%3DTdCFdIfcvSCBIuxr2zj%3DwTIG4W7R7kx%3DwqgG4nGZ3Q1pxXfn3NIC8mHnDkHQDr1%3D8W4Q8XfZ7wf%3DDm1pjnGm2mfQ2k4QHa4QqXfZfd1pIQIFfr4ZxkHn8kHQIQ4QDr7ReOgClWftaW7RedxZ7vgClWfBIWjGfXiCkXfplnx9EWiCkXfQL_fBIkxrfXgCfX1p8d4Cxr1tIkxredHQkZfCLY4CDr4ZxnHG3ZiF2zfZlafQDd4Zx_7nckxmWzfOIdj%3Dqz4Zxr4ZHnjFjvgC8nxr7kgClk7ndZj9eKiF3agBkX7nwUjnwqgBkX7R3aiF2zftIojmwqspkW7R7kxnfzftIYj9eogCbnIr2zftIojmwqgCfd4ZlX1pbm4YIXjFEYsFwqgCL_4Cqa1Cfmfp8_1pDd4Z2k7ndZj92zftIYj%3D7TgFINJ94w7Rekj%3DwqgCbnI9eQiF2zfQbWfCfZ1CH_fOINxpfzCq33fD_P3G34DZe_Cc33fl_DHrNfDZePCc3EjldCf9NfDZbYCk3EsldDJ%3DI4E%3D4aCklnHr3_iF2zfClnHr7wiF2z4Z2Z7ReTiF2zfCbW4YIqxreOiF2zfCbX1BIqxreNI9IvIpkXfpb_7n3Zx%3DcdI9IvIpkXfpHZ7n3Zx%3DwViF2zfCla1tINI94TiF2z1pqd1CL_fZHX1pqY4pfk4CfnxmXVj%3D_dJCkY7nEUEE7fgDX82C4nEw3%2F1cxmJRc5EqXZID_3jp424n3Tip8wfq7%2FHREiscEa2dvnDwjgfq_g3GNIfDvrI%3D7Iil%2F_DdES2QEnCDkm2kzw7C7tfkumHZ3FFQjFxZxWEdHdEqAX4kvRJqcv4mc8Cw39fd8Y4FuTHkwYBDqaJ%3D8XFE4X4m7kErwfJFdBjZfwfqIlIreRDC3U4dHmFEE5HrjoBpINEmcdEqEaDQepIqDrEDwmCnaZ2nuRxQc64ka_IFj4I9jkJYDY3QN%2F1GE23Fv%2F7R7kJrfz6QTS1Y%2FM6OIviFfz5ClM5ClM5ClM5ClM5ClnHrbzftaYfpbW5pxkfZDr5p8XfCbXfYWXfZDX4plm4BWW5plY4ZqX5plWfC2X5%3D_wjr3NHOWT593vJ%3DEZxtXOHF4oInwTJczQJm_qjF4vjnDy\u0026ctag=pd_sl_56a3a6b075666ed10abcf0afe6df4ceefaf9cb1a5e8bb8165992f4f3&quot;,&quot;image_url&quot;:&quot;https://tiles-cdn.prod.ads.prod.webservices.mozgcp.net/CAP5k4gWqcBGwir7bEEmBWveLMtvldFu-y_kyO3txFA=.9991.jpg&quot;,&quot;impression_url&quot;:&quot;https://imp.mt48.net/static?id=7RHzfOIXjFEYsBdvIpka1CD%2B1pqZ4QbY1CLd4Cxk4tIWHG7kJnEYgFIvxnEnJrNWxnwmHF4%2Bj%3DwTIGfnxrEOfCkXfplkfBIZjF8YgF%2Bwjr3NHOIZjF8ZgCxkfZDr7nckxYdvIpkZfCLY4CDr4ZqnHF3m5FwqgCxkfZDr7n4NJGeNiFjU5FwqgC8XfCbXfYINI%3DjYJrEW5FwqgClZ4ClkfCHd7R3%2Bx%3DDuiF2zfOIZJ%3Dzk5F%2BdJF7wxQkY7n4YIFckiGIw5FwqgCxkfYIWJ%3DcQIFdwJR2uiF2zfCbW4YINItdZIFXwHr3vJmauiF2z1pqd1CL%2BfZHX1pqY4pfk4Cfy&quot;,&quot;image_size&quot;:200}],&quot;sov&quot;:&quot;eyJuYW1lIjoiU09WLTIwMjMxMDI3MTk0NTI4IiwiYWxsb2NhdGlvbnMiOlt7InBvc2l0aW9uIjoxLCJhbGxvY2F0aW9uIjpbeyJwYXJ0bmVyIjoiYW1wIiwicGVyY2VudGFnZSI6MTAwfSx7InBhcnRuZXIiOiJtb3otc2FsZXMiLCJwZXJjZW50YWdlIjowfV19LHsicG9zaXRpb24iOjIsImFsbG9jYXRpb24iOlt7InBhcnRuZXIiOiJhbXAiLCJwZXJjZW50YWdlIjo5MH0seyJwYXJ0bmVyIjoibW96LXNhbGVzIiwicGVyY2VudGFnZSI6MTB9XX0seyJwb3NpdGlvbiI6MywiYWxsb2NhdGlvbiI6W3sicGFydG5lciI6ImFtcCIsInBlcmNlbnRhZ2UiOjEwMH0seyJwYXJ0bmVyIjoibW96LXNhbGVzIiwicGVyY2VudGFnZSI6MH1dfV19&quot;}
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>https://contile.services.mozilla.com/v1/tiles</java.net.URL>
+</httpSample>
+
+</testResults>
